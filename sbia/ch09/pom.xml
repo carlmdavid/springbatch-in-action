@@ -13,7 +13,7 @@
 	
 	<properties>
 		<btm.version>2.1.0</btm.version>
-		<derby.version>10.14.2.0</derby.version>
+		<derby.version>10.17.1.0</derby.version>
 		<activemq.version>5.8.0</activemq.version>
 	</properties>
 	
